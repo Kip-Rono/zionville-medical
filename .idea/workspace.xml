@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1cfe0a-ba2a-47dd-af0b-f3e5406b7047" name="Default Changelist" comment="" />
+    <list default="true" id="ef1cfe0a-ba2a-47dd-af0b-f3e5406b7047" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maxio-medical" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -52,7 +54,8 @@
       <workItem from="1664373567504" duration="19000" />
       <workItem from="1664373726412" duration="217000" />
       <workItem from="1664423851601" duration="4405000" />
-      <workItem from="1664431668765" duration="5605000" />
+      <workItem from="1664431668765" duration="6360000" />
+      <workItem from="1665000279029" duration="802000" />
     </task>
     <servers />
   </component>
@@ -69,5 +72,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
