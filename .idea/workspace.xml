@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef1cfe0a-ba2a-47dd-af0b-f3e5406b7047" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/js/lazysizes.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -66,7 +65,7 @@
       <workItem from="1664423851601" duration="4405000" />
       <workItem from="1664431668765" duration="6360000" />
       <workItem from="1665000279029" duration="802000" />
-      <workItem from="1665926065805" duration="2291000" />
+      <workItem from="1665926065805" duration="2672000" />
     </task>
     <servers />
   </component>
